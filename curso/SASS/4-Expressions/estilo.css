@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body h1 {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 1px 1px 1px #505050;
+  font-size: 25px;
+  text-decoration: underline;
+  background: #717171;
+  padding: 25px; }
+body p {
+  font-size: 30px;
+  color: blue; }
+body div {
+  height: 20px;
+  margin: 10px; }
+body .item-1 {
+  width: 100px;
+  background: #6950f1; }
+body .item-2 {
+  width: 200px;
+  background: #6ea0f2; }
+body .item-3 {
+  width: 300px;
+  background: #73f0f3; }
+body .items-1 {
+  width: 100px;
+  background: #6950f1; }
+body .items-2 {
+  width: 200px;
+  background: #6ea0f2; }
+body .items-3 {
+  width: 300px;
+  background: #73f0f3; }
+body .itemss-1 {
+  width: 100px;
+  background: #6950f1; }
+body .itemss-2 {
+  width: 200px;
+  background: #6ea0f2; }
+body .itemss-3 {
+  width: 300px;
+  background: #73f0f3; }
+
+/*# sourceMappingURL=estilo.css.map */

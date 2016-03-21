@@ -1,0 +1,20 @@
+/*p { 
+	color: red; font-weight: bold; ;
+}*/
+
+/*.clase { color: green; }*/
+
+/*#id { color: black; }*/
+
+/*.clase { color: yellow; }*/
+
+/*div + p { color: blue; }*/
+
+/*div ~ p { color: green; }*/
+
+/*div > p { color:  #00FFE9 }*/
+
+/*[nico="curso"] { color: blue; }*/
+
+p:hover { font-size: 18px; color: green;}
+

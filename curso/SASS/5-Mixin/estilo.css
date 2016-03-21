@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body h1 {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 1px 1px 1px #505050;
+  font-size: 25px;
+  text-decoration: underline;
+  background: #717171;
+  padding: 25px; }
+body .block {
+  background: black;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  border: 2px solid red; }
+  body .block > div {
+    background: green;
+    width: 40px;
+    height: 40px; }
+  body .block:nth-child(2) {
+    border-radius: 5px; }
+  body .block:nth-child(3) {
+    border-radius: 10px; }
+  body .block:nth-child(4) {
+    border-radius: 50px; }
+
+/*# sourceMappingURL=estilo.css.map */
